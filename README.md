@@ -2,7 +2,6 @@
 
 - My name is **Woo Jun Lee** from **South Korea 🇰🇷**
 - I'm currently pursuing my Master's degree in **Industrial Engineering** at **Korea University**
-- 
 
 ---
 
