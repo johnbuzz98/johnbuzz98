@@ -1,7 +1,8 @@
 ## Hi there 👋
 
 - My name is **Woo Jun Lee** from **South Korea 🇰🇷**
-- I'm senior in **Korea.Univ**, majoring in **Industrial Engineering**
+- I'm currently pursuing my Master's degree in **Industrial Engineering** at **Korea University**
+- 
 
 ---
 
