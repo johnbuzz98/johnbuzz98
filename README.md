@@ -10,4 +10,17 @@
 <a href="https://share.streamlit.io/tomtom1103/kuiai_hackathon_2022/main/JL_app.py"><img src="https://img.shields.io/badge/Journey Lee-161B22?style=for-the-badge&logo=streamlit&logoColor=FF4B4B"/></a> <a href="https://jeon-100.github.io/Dangzang/"><img src="https://img.shields.io/badge/당신을 위한 장학금, 당장!-161B22?style=for-the-badge&logo=react&logoColor=#61DAFB"/></a>
 
 <!--START_SECTION:waka-->
+
+```txt
+From: 11 January 2022 - To: 11 July 2023
+
+Total Time: 417 hrs 34 mins
+
+Python             365 hrs 10 mins █████████████████████▓░░░   86.18 %
+Bash               10 hrs 50 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.56 %
+YAML               7 hrs 40 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.81 %
+Other              6 hrs 8 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.45 %
+JSON               5 hrs 35 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.32 %
+```
+
 <!--END_SECTION:waka-->
