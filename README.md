@@ -12,15 +12,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 11 January 2022 - To: 13 September 2024
+From: 11 January 2022 - To: 14 September 2024
 
-Total Time: 1,080 hrs 45 mins
+Total Time: 1,086 hrs 10 mins
 
-Python             935 hrs 15 mins █████████████████████▒░░░   85.89 %
-YAML               27 hrs 35 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.53 %
-Bash               25 hrs 41 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.36 %
+Python             936 hrs 19 mins █████████████████████▒░░░   85.56 %
+YAML               27 hrs 35 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.52 %
+Bash               25 hrs 49 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.36 %
+JSON               16 hrs 4 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.47 %
 Prolog             12 hrs 39 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.16 %
-JSON               11 hrs 52 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.09 %
 ```
 
 <!--END_SECTION:waka-->
