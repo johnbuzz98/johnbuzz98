@@ -12,15 +12,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 11 January 2022 - To: 22 December 2025
+From: 11 January 2022 - To: 23 December 2025
 
-Total Time: 1,433 hrs 50 mins
+Total Time: 1,435 hrs 50 mins
 
-Python                     1,194 hrs 34 mins████████████████████▓░░░░   82.65 %
+Python                     1,194 hrs 34 mins████████████████████▓░░░░   82.53 %
 Bash                       50 hrs 3 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 %
-YAML                       45 hrs 27 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.15 %
+YAML                       45 hrs 27 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.14 %
 JSON                       27 hrs 3 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.87 %
-Markdown                   24 hrs 7 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.67 %
+Markdown                   24 hrs 33 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.70 %
 ```
 
 <!--END_SECTION:waka-->
