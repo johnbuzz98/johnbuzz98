@@ -12,7 +12,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 11 January 2022 - To: 22 February 2026
+From: 11 January 2022 - To: 23 February 2026
 
 Total Time: 1,443 hrs 42 mins
 
