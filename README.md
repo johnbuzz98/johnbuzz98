@@ -12,15 +12,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 11 January 2022 - To: 25 April 2026
+From: 11 January 2022 - To: 26 April 2026
 
-Total Time: 1,464 hrs 32 mins
+Total Time: 1,466 hrs 37 mins
 
-Python                     1,196 hrs 40 mins     ████████████████████▒░░░░   80.80 %
+Python                     1,196 hrs 40 mins     ████████████████████▒░░░░   80.67 %
 Bash                       50 hrs 40 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 %
-YAML                       45 hrs 51 mins        ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.10 %
-Markdown                   38 hrs 22 mins        ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.59 %
-JSON                       29 hrs 31 mins        ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.99 %
+YAML                       45 hrs 51 mins        ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.09 %
+Markdown                   39 hrs 54 mins        ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.69 %
+JSON                       30 hrs 5 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.03 %
 ```
 
 <!--END_SECTION:waka-->
