@@ -12,13 +12,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 11 January 2022 - To: 13 June 2026
+From: 11 January 2022 - To: 14 June 2026
 
-Total Time: 1,499 hrs 35 mins
+Total Time: 1,502 hrs 42 mins
 
-Python                     1,203 hrs 29 mins     ███████████████████▓░░░░░   79.13 %
+Python                     1,203 hrs 29 mins     ███████████████████▓░░░░░   78.97 %
+Markdown                   53 hrs 15 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 %
 Bash                       51 hrs 9 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 %
-Markdown                   50 hrs 22 mins        ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.31 %
 YAML                       46 hrs                ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.02 %
 JSON                       32 hrs 41 mins        ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.15 %
 ```
